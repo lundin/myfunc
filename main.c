@@ -1,3 +1,6 @@
+/* comment here */
+/*Something here*/
+
 #include <stdio.h>
 int x;
 int foo(int x)
